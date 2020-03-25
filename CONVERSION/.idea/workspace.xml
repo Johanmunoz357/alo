@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77fc1b1b-3723-4611-ae0c-7321950e4aa7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRTocyUID4KjFBbbcwMIub2YPB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Ejemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer.Ejemplo1" />
+      <module name="CONVERSION.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Ejer1" />
+      <module name="CONVERSION.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Ejer2" />
+      <module name="CONVERSION.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Main" />
+      <module name="CONVERSION.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controllerEjer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.controllerEjer3" />
+      <module name="CONVERSION.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.controllerEjer3" />
+        <item itemvalue="Application.Ejer2" />
+        <item itemvalue="Application.Ejer1" />
+        <item itemvalue="Application.Ejemplo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77fc1b1b-3723-4611-ae0c-7321950e4aa7" name="Default Changelist" comment="" />
+      <created>1581008082488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581008082488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="980" y="201" key="#Inspections" timestamp="1583433593773">
+      <screen x="65" y="24" width="3221" height="1056" />
+    </state>
+    <state x="592" y="201" key="#Inspections/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1581110115335" />
+    <state x="980" y="201" key="#Inspections/65.24.3221.1056@65.24.3221.1056" timestamp="1583433593773" />
+    <state x="592" y="201" width="800" height="829" key="#Intentions" timestamp="1583859226012">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="201" width="800" height="829" key="#Intentions/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1583859226012" />
+    <state x="805" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1584374141389">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1213" y="224" key="#com.intellij.ide.util.MemberChooser/65.21.2879.1059@65.21.2879.1059" timestamp="1583412579908" />
+    <state x="805" y="226" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581431749398" />
+    <state x="805" y="226" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584374141389" />
+    <state x="1349" y="226" key="#com.intellij.ide.util.MemberChooser/65.24.3221.1056@65.24.3221.1056" timestamp="1583441396531" />
+    <state x="289" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581111339276">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="289" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1581111339276" />
+    <state x="730" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584372563660">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584372563660" />
+    <state x="657" y="197" key="#controllerEjer3" timestamp="1584103504889">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="657" y="197" key="#controllerEjer3/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584103504889" />
+    <state x="703" y="305" key="#xdebugger.evaluate" timestamp="1584129907659">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="703" y="305" key="#xdebugger.evaluate/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584129907659" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1584125886988">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584125886988" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1583875491238">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1583875491238" />
+    <state width="1809" height="310" key="GridCell.Tab.0.bottom" timestamp="1584378049791">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1322" height="68" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584097095286" />
+    <state width="1809" height="289" key="GridCell.Tab.0.bottom/65.21.2879.1059@65.21.2879.1059" timestamp="1583413268997" />
+    <state width="1809" height="289" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581457115590" />
+    <state width="1809" height="310" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049791" />
+    <state width="1809" height="211" key="GridCell.Tab.0.bottom/65.24.3221.1056@65.24.3221.1056" timestamp="1583443368640" />
+    <state width="1809" height="310" key="GridCell.Tab.0.center" timestamp="1584378049791">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1322" height="68" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584097095286" />
+    <state width="1809" height="289" key="GridCell.Tab.0.center/65.21.2879.1059@65.21.2879.1059" timestamp="1583413268997" />
+    <state width="1809" height="289" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581457115590" />
+    <state width="1809" height="310" key="GridCell.Tab.0.center/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049791" />
+    <state width="1809" height="211" key="GridCell.Tab.0.center/65.24.3221.1056@65.24.3221.1056" timestamp="1583443368639" />
+    <state width="1809" height="310" key="GridCell.Tab.0.left" timestamp="1584378049791">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1322" height="68" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584097095286" />
+    <state width="1809" height="289" key="GridCell.Tab.0.left/65.21.2879.1059@65.21.2879.1059" timestamp="1583413268997" />
+    <state width="1809" height="289" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581457115590" />
+    <state width="1809" height="310" key="GridCell.Tab.0.left/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049791" />
+    <state width="1809" height="211" key="GridCell.Tab.0.left/65.24.3221.1056@65.24.3221.1056" timestamp="1583443368639" />
+    <state width="1809" height="310" key="GridCell.Tab.0.right" timestamp="1584378049791">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1322" height="68" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584097095286" />
+    <state width="1809" height="289" key="GridCell.Tab.0.right/65.21.2879.1059@65.21.2879.1059" timestamp="1583413268997" />
+    <state width="1809" height="289" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581457115590" />
+    <state width="1809" height="310" key="GridCell.Tab.0.right/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049791" />
+    <state width="1809" height="211" key="GridCell.Tab.0.right/65.24.3221.1056@65.24.3221.1056" timestamp="1583443368640" />
+    <state width="1809" height="356" key="GridCell.Tab.1.bottom" timestamp="1584378049789">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="356" key="GridCell.Tab.1.bottom/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049789" />
+    <state width="1809" height="356" key="GridCell.Tab.1.center" timestamp="1584378049789">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="356" key="GridCell.Tab.1.center/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049789" />
+    <state width="1809" height="356" key="GridCell.Tab.1.left" timestamp="1584378049789">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="356" key="GridCell.Tab.1.left/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049789" />
+    <state width="1809" height="356" key="GridCell.Tab.1.right" timestamp="1584378049789">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="356" key="GridCell.Tab.1.right/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584378049789" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1584374057072">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584374057072" />
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584129398414">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584129398414" />
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1584129326825">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584129326825" />
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584362355825">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="434" y="246" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584055498260" />
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog/65.24.1855.1056/1920.0.1024.768@65.24.1855.1056" timestamp="1581425351487" />
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584362355825" />
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1583412163236" />
+    <state x="661" y="202" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583502459804">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="661" y="202" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1583502459804" />
+    <state x="693" y="168" key="refactoring.ChangeSignatureDialog" timestamp="1583768992126">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="693" y="168" key="refactoring.ChangeSignatureDialog/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1583768992126" />
+    <state x="655" y="246" key="run.anything.popup" timestamp="1584374011978">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="246" key="run.anything.popup/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1584374011978" />
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1583781397987">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056/1920.70.1366.768@65.24.1855.1056" timestamp="1583781397987" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practice/Ejer2.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practice/Ejer2.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="txtlat.isVisible()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CONVERSION$ConvVista.ic" NAME="ConvVista Coverage Results" MODIFIED="1581016260215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>conversion.*</FILTER>
+    </SUITE>
+  </component>
+</project>
