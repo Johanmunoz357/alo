@@ -14,7 +14,7 @@ public class controllerEjer3 extends JFrame {
         ejer3.setBounds(500, 300, 450, 550);
         ejer3.setVisible(true);
         ejer3.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        ejer3.setTitle("Formulario Equipos de Futbol");
+        ejer3.setTitle("Formulario ...");
         ejer3.txtnameTeam.addKeyListener(validacionNombreEquipo());
         ejer3.txtstadiumTeam.addKeyListener(validacionNombreEquipo());
         ejer3.txttitlesTeam.addKeyListener(validacionSoloNumeros());
